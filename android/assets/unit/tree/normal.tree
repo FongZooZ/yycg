@@ -1,0 +1,16 @@
+# Alias definitions
+import findFood:"com.dongbat.game.ai.tasks.FindNearestFoodTask"
+import findPlayer:"com.dongbat.game.ai.tasks.FindNearestPlayerTask"
+import canEat:"com.dongbat.game.ai.tasks.CheckEatablePlayer"
+import avoid:"com.dongbat.game.ai.tasks.AvoidToBeEaten"
+
+# Tree definition
+root
+    parallel  
+        sequence
+            findFood
+        sequence
+            canEat
+            findPlayer
+        sequence
+            avoid

@@ -1,0 +1,5 @@
+name=linh
+radius=1.95
+baseSpeedRate=200
+abilities=SpeedUp
+definitionPath=unit/tree/normal.tree

@@ -1,0 +1,153 @@
+
+warrior.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die
+  rotate: false
+  xy: 1, 141
+  size: 398, 878
+  orig: 398, 878
+  offset: 0, 0
+  index: 0
+die
+  rotate: false
+  xy: 401, 141
+  size: 398, 878
+  orig: 398, 878
+  offset: 0, 0
+  index: 1
+lose
+  rotate: false
+  xy: 1, 1
+  size: 187, 138
+  orig: 187, 138
+  offset: 0, 0
+  index: 0
+lose
+  rotate: false
+  xy: 801, 881
+  size: 187, 138
+  orig: 187, 138
+  offset: 0, 0
+  index: 1
+lose
+  rotate: false
+  xy: 190, 1
+  size: 187, 138
+  orig: 187, 138
+  offset: 0, 0
+  index: 2
+idle
+  rotate: false
+  xy: 801, 741
+  size: 186, 138
+  orig: 186, 138
+  offset: 0, 0
+  index: 0
+idle
+  rotate: false
+  xy: 379, 1
+  size: 186, 138
+  orig: 186, 138
+  offset: 0, 0
+  index: 1
+idle
+  rotate: false
+  xy: 379, 1
+  size: 186, 138
+  orig: 186, 138
+  offset: 0, 0
+  index: 3
+idle
+  rotate: false
+  xy: 801, 601
+  size: 186, 138
+  orig: 186, 138
+  offset: 0, 0
+  index: 2
+bullet-1
+  rotate: false
+  xy: 567, 19
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bullet-3
+  rotate: false
+  xy: 801, 479
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bullet-2
+  rotate: false
+  xy: 689, 19
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+
+warrior2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die
+  rotate: false
+  xy: 1, 1
+  size: 398, 878
+  orig: 398, 878
+  offset: 0, 0
+  index: 2
+die
+  rotate: false
+  xy: 401, 1
+  size: 398, 878
+  orig: 398, 878
+  offset: 0, 0
+  index: 3
+
+warrior3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die
+  rotate: false
+  xy: 1, 1
+  size: 398, 878
+  orig: 398, 878
+  offset: 0, 0
+  index: 4
+fly
+  rotate: false
+  xy: 401, 1
+  size: 398, 878
+  orig: 398, 878
+  offset: 0, 0
+  index: 0
+
+warrior4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fly
+  rotate: false
+  xy: 1, 1
+  size: 398, 878
+  orig: 398, 878
+  offset: 0, 0
+  index: 1
+fly
+  rotate: false
+  xy: 1, 1
+  size: 398, 878
+  orig: 398, 878
+  offset: 0, 0
+  index: 3
+fly
+  rotate: false
+  xy: 401, 1
+  size: 398, 878
+  orig: 398, 878
+  offset: 0, 0
+  index: 2

@@ -1,0 +1,99 @@
+name:Shrink
+class:com.dongbat.game.buff.effects.Shrink
+1: shrinkAmount=10 | speedIncrease=300000
+2: shrinkAmount=9  | speedIncrease=500000
+3: shrinkAmount=9  | speedIncrease=700000
+
+name:Ghost
+class:com.dongbat.game.buff.effects.Ghost
+1: speedIncrease=200000
+2: speedIncrease=300000
+3: speedIncrease=400000
+
+name:QueenGrowth
+class:com.dongbat.game.buff.effects.QueenGrowth
+1: growFrame = 100 |   growPercent = 5 | cap = 20
+
+name:Feed
+class:com.dongbat.game.buff.effects.Feed
+1: feedPerSecond=0.05
+
+name:FeedSmaller
+class:com.dongbat.game.buff.effects.FeedSmaller
+1: feedPerSecond=0.05
+
+name:SelfDefense
+class:com.dongbat.game.buff.effects.SelfDefense
+1: framePerFood=20
+
+name:ToxicFood
+class:com.dongbat.game.buff.effects.ToxicFood
+1: toxicScale =1
+
+name:DelayBuff
+class:com.dongbat.game.buff.effects.DelayBuff
+1: level=1
+
+name:CutProjectile
+class:com.dongbat.game.buff.effects.CutProjectile
+1: split =0.5f
+
+name:QueenTeleportSchedule
+class:com.dongbat.game.buff.effects.QueenTeleportSchedule
+1: scheduleFrame=100
+
+name:ProduceFoodSchedule
+class:com.dongbat.game.buff.effects.ProduceFoodSchedule
+1: scheduleFrame = 1 | overheatFrame = 30 | cooldownFrame = 50
+
+name:RandomDestinationSchedule
+class:com.dongbat.game.buff.effects.RandomDestinationSchedule
+
+name:HotBlow
+class:com.dongbat.game.buff.effects.HotBlow
+1: radius=20 | forceStrength=5 | duration=1000
+
+name:ReturnOnInvestment
+class:com.dongbat.game.buff.effects.ReturnOnInvestment
+1: childNumber=3
+2: childNumber=4
+3: childNumber=5
+
+name:Forced
+class:com.dongbat.game.buff.effects.Forced
+1: forceStrength=5
+
+name:Respawn
+class:com.dongbat.game.buff.effects.Respawn
+1: minRadius=3
+
+name:FleeForced
+class:com.dongbat.game.buff.effects.Forced
+1: forceStrength=2 | ignoreMass =true
+
+name:HotBlowForced
+class:com.dongbat.game.buff.effects.Forced
+1: forceStrength=5
+
+name:VacuumForced
+class:com.dongbat.game.buff.effects.Forced
+1: forceStrength=5
+
+name:WallForced
+class:com.dongbat.game.buff.effects.Forced
+1: forceStrength=5 | ignoreMass=true
+
+name:ToBeRemoved
+class:com.dongbat.game.buff.effects.ToBeRemoved
+
+name:AttractedToSource
+class:com.dongbat.game.buff.effects.AttractedToSource
+1: forceStrength=5 | ignoreMass=true
+
+name:AttractedToSub
+class:com.dongbat.game.buff.effects.AttractedToSource
+1: forceStrength=5 | ignoreMass=true
+
+name:AttractFood
+class:com.dongbat.game.buff.effects.AttractFood
+1: radius=20

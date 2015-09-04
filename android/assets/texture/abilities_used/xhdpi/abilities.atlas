@@ -1,0 +1,40 @@
+
+xhdpi.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blow
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cut
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+flee
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+split
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+vacuum
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

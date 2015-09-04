@@ -1,0 +1,127 @@
+
+queen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+queen
+  rotate: false
+  xy: 1, 902
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 0
+queen
+  rotate: false
+  xy: 1, 902
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 12
+queen
+  rotate: false
+  xy: 1, 1
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 1
+queen
+  rotate: false
+  xy: 1, 1
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 15
+queen
+  rotate: false
+  xy: 903, 902
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 2
+queen
+  rotate: false
+  xy: 903, 902
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 14
+queen
+  rotate: false
+  xy: 903, 1
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 3
+queen
+  rotate: false
+  xy: 903, 1
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 13
+
+queen2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+queen
+  rotate: false
+  xy: 1, 902
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 4
+queen
+  rotate: false
+  xy: 1, 1
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 5
+queen
+  rotate: false
+  xy: 1, 1
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 11
+queen
+  rotate: false
+  xy: 903, 902
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 6
+queen
+  rotate: false
+  xy: 903, 902
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 10
+queen
+  rotate: false
+  xy: 903, 1
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 7
+queen
+  rotate: false
+  xy: 903, 1
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 9
+
+queen3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+queen
+  rotate: false
+  xy: 1, 1
+  size: 900, 899
+  orig: 900, 899
+  offset: 0, 0
+  index: 8

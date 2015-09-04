@@ -1,0 +1,5 @@
+name=bao
+radius=3
+baseSpeedRate=205
+abilities=SpeedUp
+definitionPath=unit/tree/dummy.tree

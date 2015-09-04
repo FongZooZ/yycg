@@ -1,0 +1,11 @@
+# Alias definitions
+import findQueen:"com.dongbat.game.ai.tasks.MoveToQueenTask"
+import findFood:"com.dongbat.game.ai.tasks.FindNearestFoodTask"
+
+# Tree definition
+root
+    parallel  
+        sequence
+          findQueen
+        sequence
+          findFood

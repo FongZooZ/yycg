@@ -1,0 +1,159 @@
+
+warrior.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die
+  rotate: false
+  xy: 1, 584
+  size: 199, 439
+  orig: 199, 439
+  offset: 0, 0
+  index: 0
+die
+  rotate: false
+  xy: 1, 143
+  size: 199, 439
+  orig: 199, 439
+  offset: 0, 0
+  index: 1
+die
+  rotate: false
+  xy: 202, 584
+  size: 199, 439
+  orig: 199, 439
+  offset: 0, 0
+  index: 2
+die
+  rotate: false
+  xy: 202, 143
+  size: 199, 439
+  orig: 199, 439
+  offset: 0, 0
+  index: 3
+die
+  rotate: false
+  xy: 403, 584
+  size: 199, 439
+  orig: 199, 439
+  offset: 0, 0
+  index: 4
+fly
+  rotate: false
+  xy: 403, 143
+  size: 199, 439
+  orig: 199, 439
+  offset: 0, 0
+  index: 0
+fly
+  rotate: false
+  xy: 604, 584
+  size: 199, 439
+  orig: 199, 439
+  offset: 0, 0
+  index: 1
+fly
+  rotate: false
+  xy: 604, 584
+  size: 199, 439
+  orig: 199, 439
+  offset: 0, 0
+  index: 3
+fly
+  rotate: false
+  xy: 604, 143
+  size: 199, 439
+  orig: 199, 439
+  offset: 0, 0
+  index: 2
+shoot
+  rotate: false
+  xy: 1, 72
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: 0
+shoot
+  rotate: false
+  xy: 1, 1
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: 1
+shoot
+  rotate: false
+  xy: 805, 954
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: 2
+lose
+  rotate: false
+  xy: 105, 72
+  size: 94, 69
+  orig: 94, 69
+  offset: 0, 0
+  index: 0
+lose
+  rotate: false
+  xy: 105, 1
+  size: 94, 69
+  orig: 94, 69
+  offset: 0, 0
+  index: 1
+lose
+  rotate: false
+  xy: 805, 883
+  size: 94, 69
+  orig: 94, 69
+  offset: 0, 0
+  index: 2
+idle
+  rotate: false
+  xy: 909, 954
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: 0
+idle
+  rotate: false
+  xy: 201, 72
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: 1
+idle
+  rotate: false
+  xy: 201, 72
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: 3
+idle
+  rotate: false
+  xy: 201, 1
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: 2
+bullet-1
+  rotate: false
+  xy: 805, 821
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+bullet-3
+  rotate: false
+  xy: 901, 892
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+bullet-2
+  rotate: false
+  xy: 296, 81
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1

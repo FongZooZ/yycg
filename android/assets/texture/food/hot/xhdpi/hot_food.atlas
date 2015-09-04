@@ -1,0 +1,40 @@
+
+hot_food.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hot_food
+  rotate: false
+  xy: 1, 1
+  size: 180, 174
+  orig: 180, 174
+  offset: 0, 0
+  index: 0
+hot_food
+  rotate: false
+  xy: 1, 1
+  size: 180, 174
+  orig: 180, 174
+  offset: 0, 0
+  index: 4
+hot_food
+  rotate: false
+  xy: 183, 1
+  size: 180, 174
+  orig: 180, 174
+  offset: 0, 0
+  index: 1
+hot_food
+  rotate: false
+  xy: 183, 1
+  size: 180, 174
+  orig: 180, 174
+  offset: 0, 0
+  index: 3
+hot_food
+  rotate: false
+  xy: 365, 1
+  size: 180, 174
+  orig: 180, 174
+  offset: 0, 0
+  index: 2

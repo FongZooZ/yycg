@@ -1,0 +1,5 @@
+name=minh
+radius=2
+baseSpeedRate=180
+abilities=Flee,SplitAndJoin,Vacuum,HotBlow
+definitionPath=unit/tree/normal.tree

@@ -1,0 +1,169 @@
+
+warrior.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die
+  rotate: false
+  xy: 1, 319
+  size: 299, 659
+  orig: 299, 659
+  offset: 0, 0
+  index: 0
+die
+  rotate: false
+  xy: 302, 319
+  size: 299, 659
+  orig: 299, 659
+  offset: 0, 0
+  index: 1
+die
+  rotate: false
+  xy: 603, 319
+  size: 299, 659
+  orig: 299, 659
+  offset: 0, 0
+  index: 2
+shoot
+  rotate: false
+  xy: 1, 213
+  size: 152, 104
+  orig: 152, 104
+  offset: 0, 0
+  index: 0
+shoot
+  rotate: false
+  xy: 1, 107
+  size: 152, 104
+  orig: 152, 104
+  offset: 0, 0
+  index: 1
+shoot
+  rotate: false
+  xy: 155, 213
+  size: 152, 104
+  orig: 152, 104
+  offset: 0, 0
+  index: 2
+lose
+  rotate: false
+  xy: 1, 1
+  size: 141, 104
+  orig: 141, 104
+  offset: 0, 0
+  index: 0
+lose
+  rotate: false
+  xy: 155, 107
+  size: 141, 104
+  orig: 141, 104
+  offset: 0, 0
+  index: 1
+lose
+  rotate: false
+  xy: 309, 213
+  size: 141, 104
+  orig: 141, 104
+  offset: 0, 0
+  index: 2
+idle
+  rotate: false
+  xy: 144, 1
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: 0
+idle
+  rotate: false
+  xy: 298, 107
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: 1
+idle
+  rotate: false
+  xy: 298, 107
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: 3
+idle
+  rotate: false
+  xy: 452, 213
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: 2
+bullet-1
+  rotate: false
+  xy: 904, 888
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+bullet-3
+  rotate: false
+  xy: 286, 15
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+bullet-2
+  rotate: false
+  xy: 440, 121
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+
+warrior2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die
+  rotate: false
+  xy: 1, 1
+  size: 299, 659
+  orig: 299, 659
+  offset: 0, 0
+  index: 3
+die
+  rotate: false
+  xy: 302, 1
+  size: 299, 659
+  orig: 299, 659
+  offset: 0, 0
+  index: 4
+fly
+  rotate: false
+  xy: 603, 1
+  size: 299, 659
+  orig: 299, 659
+  offset: 0, 0
+  index: 0
+
+warrior3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fly
+  rotate: false
+  xy: 1, 1
+  size: 299, 659
+  orig: 299, 659
+  offset: 0, 0
+  index: 1
+fly
+  rotate: false
+  xy: 1, 1
+  size: 299, 659
+  orig: 299, 659
+  offset: 0, 0
+  index: 3
+fly
+  rotate: false
+  xy: 302, 1
+  size: 299, 659
+  orig: 299, 659
+  offset: 0, 0
+  index: 2

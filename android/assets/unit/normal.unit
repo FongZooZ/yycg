@@ -1,0 +1,5 @@
+name=default
+radius=15
+baseSpeedRate=200
+abilities=SpeedUp
+definitionPath=unit/tree/normal.tree
